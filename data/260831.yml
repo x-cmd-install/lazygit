@@ -1,0 +1,61 @@
+about:
+  description: simple terminal UI for git commands
+  license: MIT
+  homepage: 
+  head: 8924bca
+  archived: false
+  latestVersion: v0.64.1
+  collectedAt: 2026-08-31T05:51:20Z
+timeline:
+  created: 2018-05-19
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-12
+popularity:
+  star: 81787
+  watcher: 339
+  fork: 3009
+  release: 186
+  contributor: 360
+  pullRequest: 605
+  issue: 2707
+language:
+  Go: 4335423
+  Shell: 10967
+  Nix: 4257
+  Just: 1972
+  Makefile: 1495
+  Dockerfile: 1121
+totalLine: 4355235
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 2
+    mergedPR: 37
+    openPR: 12
+    closedIssue: 10
+    openIssue: 14
+    commit: 96
+  last90d:
+    since: 2026-06-02
+    release: 5
+    mergedPR: 119
+    openPR: 40
+    closedIssue: 31
+    openIssue: 61
+    commit: 459
+  last180d:
+    since: 2026-03-04
+    release: 10
+    mergedPR: 228
+    openPR: 84
+    closedIssue: 75
+    openIssue: 112
+    commit: 733
+  last360d:
+    since: 2025-09-05
+    release: 17
+    mergedPR: 346
+    openPR: 116
+    closedIssue: 190
+    openIssue: 210
+    commit: 939
