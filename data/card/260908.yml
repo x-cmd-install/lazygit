@@ -5,7 +5,7 @@ about:
   head: c07f4d3
   archived: false
   latestVersion: "v0.65.0"
-  collectedAt: 2026-09-08T02:47:56Z
+  collectedAt: 2026-09-08T05:33:07Z
 timeline:
   created: 2018-05-19
   lastCommit: 2026-09-05
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 82120
   watcher: 343
-  fork: 3032
+  fork: 3033
   release: 187
   contributor: 360
   pullRequest: 2668
@@ -84,7 +84,7 @@ total:
   commit: 8227
 ---
 path: /home/runner/.x-repo/github.com/jesseduffield/lazygit
-collectedAt: 2026-09-08T02:48:12Z
+collectedAt: 2026-09-08T05:33:19Z
 loc:
   Go:
     code: 437296

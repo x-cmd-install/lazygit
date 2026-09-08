@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1314,
       "digest": "sha256:9827a3fc75b8e6fcc64bc96f3e6a41d440216c80d6c30c7a85cf5061db6b1b51",
-      "download_count": 369,
+      "download_count": 377,
       "created_at": "2026-09-05T15:12:28Z",
       "updated_at": "2026-09-05T15:12:29Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6596776,
       "digest": "sha256:d8ea1cade9e4279e45cbb58652e84edb07e98a9f8ec0604099c8b0a8f709e63a",
-      "download_count": 7390,
+      "download_count": 7751,
       "created_at": "2026-09-05T15:12:26Z",
       "updated_at": "2026-09-05T15:12:27Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7101244,
       "digest": "sha256:3848033450205f975aa6a587e76f01c9796bff3a3cc0e32060ac77b9423264e3",
-      "download_count": 224,
+      "download_count": 236,
       "created_at": "2026-09-05T15:12:26Z",
       "updated_at": "2026-09-05T15:12:27Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6583651,
       "digest": "sha256:93eba7e58938412045cb76873a614dc9e8985551dd84c294b33452297364632a",
-      "download_count": 27,
+      "download_count": 29,
       "created_at": "2026-09-05T15:12:27Z",
       "updated_at": "2026-09-05T15:12:28Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_32-bit.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6299776,
       "digest": "sha256:48122f84167725ab4f903f8b1570872250fb029083b490726f94ea9f5628be02",
-      "download_count": 27,
+      "download_count": 29,
       "created_at": "2026-09-05T15:12:25Z",
       "updated_at": "2026-09-05T15:12:26Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6564329,
       "digest": "sha256:52fd4294cadd1aab24f9cd0ba10f1110f9154a37ba8f146399b19c22be279081",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-09-05T15:12:25Z",
       "updated_at": "2026-09-05T15:12:26Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_armv6.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6954673,
       "digest": "sha256:162a74ec7893d54679c85e59266bba92a474b1749d5406217fe798207b162731",
-      "download_count": 33,
+      "download_count": 35,
       "created_at": "2026-09-05T15:12:25Z",
       "updated_at": "2026-09-05T15:12:26Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6613486,
       "digest": "sha256:749478c0c0b0ee1f7dc8fb4c845fab569661327e06a12fdf6182f68808afab69",
-      "download_count": 57,
+      "download_count": 65,
       "created_at": "2026-09-05T15:12:28Z",
       "updated_at": "2026-09-05T15:12:29Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_32-bit.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6326137,
       "digest": "sha256:d954a09c128bd37b2bd0d254308474e87de3729cfe0e37f5b46a49357a4fe257",
-      "download_count": 565,
+      "download_count": 589,
       "created_at": "2026-09-05T15:12:28Z",
       "updated_at": "2026-09-05T15:12:28Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6599002,
       "digest": "sha256:0b46185444b6256503f25383b9f55a9e7bb39eaef881072b10efed4c08aa878f",
-      "download_count": 45,
+      "download_count": 49,
       "created_at": "2026-09-05T15:12:27Z",
       "updated_at": "2026-09-05T15:12:28Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_armv6.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6986569,
       "digest": "sha256:44d8e7dd1484b4a66e191bd4ab25a71e8b4b3a65ab122f838e65677ef58c5506",
-      "download_count": 4234,
+      "download_count": 4431,
       "created_at": "2026-09-05T15:12:26Z",
       "updated_at": "2026-09-05T15:12:27Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6912055,
       "digest": "sha256:bbc83aaa8ada679873da1629a591018ef49380a3b92f08957cf405a729eb8a0a",
-      "download_count": 43,
+      "download_count": 47,
       "created_at": "2026-09-05T15:12:25Z",
       "updated_at": "2026-09-05T15:12:26Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_32-bit.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6431098,
       "digest": "sha256:c0200d1481586b56996269d874be464c3c6e7c2ca47a283dd37316cffe6ece83",
-      "download_count": 58,
+      "download_count": 63,
       "created_at": "2026-09-05T15:12:26Z",
       "updated_at": "2026-09-05T15:12:27Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_arm64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 7219113,
       "digest": "sha256:20a597e8f29d4ed295e28fb4b869b31a41d20dc69dc15829c4744263141be2ee",
-      "download_count": 1921,
+      "download_count": 1962,
       "created_at": "2026-09-05T15:12:27Z",
       "updated_at": "2026-09-05T15:12:28Z",
       "browser_download_url": "https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_x86_64.zip"
