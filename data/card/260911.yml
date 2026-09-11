@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.65.0"
   latestRelease: "v0.65.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:34:05Z
+  collectedAt: 2026-09-11T19:20:28Z
 timeline:
   created: 2018-05-19
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 82215
+  star: 82242
   watcher: 343
-  fork: 3031
+  fork: 3032
   release: 187
   contributor: 360
-  pullRequest: 2672
+  pullRequest: 2673
   issue: 2717
 language:
   Go: 4398520
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-12
     release: 2
     mergedPR: 30
-    openPR: 12
+    openPR: 13
     closedIssue: 8
     openIssue: 15
     commit: 86
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-13
     release: 4
     mergedPR: 78
-    openPR: 26
+    openPR: 27
     closedIssue: 23
     openIssue: 35
     commit: 262
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-13
     release: 5
     mergedPR: 125
-    openPR: 40
+    openPR: 41
     closedIssue: 31
     openIssue: 56
     commit: 492
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-15
     release: 10
     mergedPR: 233
-    openPR: 71
+    openPR: 72
     closedIssue: 76
     openIssue: 113
     commit: 772
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-16
     release: 17
     mergedPR: 350
-    openPR: 118
+    openPR: 119
     closedIssue: 190
     openIssue: 214
     commit: 981
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-21
     release: 33
     mergedPR: 663
-    openPR: 144
+    openPR: 145
     closedIssue: 420
     openIssue: 368
     commit: 2423
 total:
   release: 187
   mergedPR: 2062
-  openPR: 171
+  openPR: 172
   closedIssue: 1855
   openIssue: 862
   commit: 8230
 ---
 path: /home/runner/.x-repo/github.com/jesseduffield/lazygit
-collectedAt: 2026-09-11T05:34:16Z
+collectedAt: 2026-09-11T19:20:38Z
 loc:
   Go:
     code: 437425
