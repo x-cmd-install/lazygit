@@ -14,11 +14,11 @@ x install lazygit
 
 ## Code insight
 
-Total: **460,319** lines of code across **2035** files in the top 5 languages.
+Total: **460,382** lines of code across **2035** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 437,425 | 53,124 | 50,934 | 1954 |
+| Go | 437,488 | 53,146 | 50,938 | 1954 |
 | Json | 14,101 | 0 | 0 | 12 |
 | AssemblyGAS | 6,619 | 363 | 1,733 | 39 |
 | Sh | 1,541 | 229 | 169 | 25 |
@@ -41,64 +41,47 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.65.0` (2026-09-05)
-- **Last commit**: 2026-09-09
+- **Latest**: `v0.65.1` (2026-09-13)
+- **Last commit**: 2026-09-13
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 82,287 · **Forks**: 3,034 · **Open issues**: 2,718 · **Contributors**: 360
+- **Stars**: 82,315 · **Forks**: 3,036 · **Open issues**: 2,718 · **Contributors**: 360
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 2062 · **Open PRs**: 173 · **Closed issues**: 1855 · **Open issues**: 863 · **Commits**: 8230
+- **Releases**: 188 · **Merged PRs**: 2064 · **Open PRs**: 170 · **Closed issues**: 1856 · **Open issues**: 862 · **Commits**: 8236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 24 | 14 | 7 | 16 | 86 |
-| last60d | 2026-07-15 | 4 | 71 | 27 | 23 | 33 | 262 |
-| 90d | 2026-06-15 | 5 | 124 | 42 | 31 | 57 | 492 |
-| last180d | 2026-03-17 | 10 | 233 | 72 | 74 | 112 | 772 |
-| 360d | 2025-09-18 | 16 | 350 | 118 | 188 | 212 | 981 |
-| last720d | 2024-09-23 | 33 | 662 | 146 | 418 | 369 | 2423 |
+| 30d | 2026-08-15 | 2 | 20 | 11 | 8 | 15 | 61 |
+| last60d | 2026-07-16 | 4 | 72 | 24 | 24 | 32 | 217 |
+| 90d | 2026-06-16 | 6 | 124 | 39 | 32 | 55 | 481 |
+| last180d | 2026-03-18 | 11 | 233 | 69 | 75 | 109 | 751 |
+| 360d | 2025-09-19 | 17 | 352 | 114 | 189 | 211 | 981 |
+| last720d | 2024-09-24 | 34 | 664 | 143 | 418 | 367 | 2427 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/checksums.txt) | 1.3 KiB | `other` |
-| [lazygit_0.65.0_darwin_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_darwin_arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
-| [lazygit_0.65.0_darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_darwin_x86_64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
-| [lazygit_0.65.0_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
-| [lazygit_0.65.0_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
-| [lazygit_0.65.0_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
-| [lazygit_0.65.0_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_x86_64.tar.gz) | 6.6 MiB | `native/linux/x64` |
-| [lazygit_0.65.0_linux_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
-| [lazygit_0.65.0_linux_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
-| [lazygit_0.65.0_linux_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
-| [lazygit_0.65.0_linux_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_x86_64.tar.gz) | 6.7 MiB | `native/linux/x64` |
-| [lazygit_0.65.0_windows_32-bit.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_32-bit.zip) | 6.6 MiB | `native/win/x64` |
-| [lazygit_0.65.0_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
-| [lazygit_0.65.0_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **130** distros on [repology.org](https://repology.org/project/lazygit). **23** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.57.0` | ⚠️ outdated |
-| Debian 14 | `0.57.0` | ⚠️ outdated |
-| Debian 13 | `0.50.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.57.0` | ⚠️ outdated |
-| Arch | `0.65.0` | ✅ latest |
-| Homebrew | `0.65.0` | ✅ latest |
-| Nix unstable | `0.65.0` | ✅ latest |
-| Void | `0.65.0` | ✅ latest |
-| Alpine edge | `0.64.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.63.0` | ⚠️ outdated |
+| [checksums.txt](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/checksums.txt) | 1.3 KiB | `other` |
+| [lazygit_0.65.1_darwin_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_darwin_arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
+| [lazygit_0.65.1_darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_darwin_x86_64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
+| [lazygit_0.65.1_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
+| [lazygit_0.65.1_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
+| [lazygit_0.65.1_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
+| [lazygit_0.65.1_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_x86_64.tar.gz) | 6.6 MiB | `native/linux/x64` |
+| [lazygit_0.65.1_linux_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
+| [lazygit_0.65.1_linux_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
+| [lazygit_0.65.1_linux_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
+| [lazygit_0.65.1_linux_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_x86_64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [lazygit_0.65.1_windows_32-bit.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_32-bit.zip) | 6.6 MiB | `native/win/x64` |
+| [lazygit_0.65.1_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
+| [lazygit_0.65.1_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -109,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:37:27Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:51:31Z._

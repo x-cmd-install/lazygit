@@ -14,11 +14,11 @@ x install lazygit
 
 ## 代码洞察
 
-合计: **460,319** 行代码（覆盖前 5 种语言、共 **2035** 个文件）。
+合计: **460,382** 行代码（覆盖前 5 种语言、共 **2035** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 437,425 | 53,124 | 50,934 | 1954 |
+| Go | 437,488 | 53,146 | 50,938 | 1954 |
 | Json | 14,101 | 0 | 0 | 12 |
 | AssemblyGAS | 6,619 | 363 | 1,733 | 39 |
 | Sh | 1,541 | 229 | 169 | 25 |
@@ -41,64 +41,47 @@ x install lazygit
 
 ## 发布
 
-- **最新版本**: `v0.65.0` (2026-09-05)
-- **最近提交**: 2026-09-09
+- **最新版本**: `v0.65.1` (2026-09-13)
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 82,287 · **Fork**: 3,034 · **开放 issue**: 2,718 · **贡献者**: 360
+- **Star**: 82,315 · **Fork**: 3,036 · **开放 issue**: 2,718 · **贡献者**: 360
 
 ## 累计统计
 
-- **发布数**: 187 · **已合并 PR**: 2062 · **开放 PR**: 173 · **已关闭 issue**: 1855 · **开放 issue**: 863 · **提交数**: 8230
+- **发布数**: 188 · **已合并 PR**: 2064 · **开放 PR**: 170 · **已关闭 issue**: 1856 · **开放 issue**: 862 · **提交数**: 8236
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 24 | 14 | 7 | 16 | 86 |
-| last60d | 2026-07-15 | 4 | 71 | 27 | 23 | 33 | 262 |
-| 90d | 2026-06-15 | 5 | 124 | 42 | 31 | 57 | 492 |
-| last180d | 2026-03-17 | 10 | 233 | 72 | 74 | 112 | 772 |
-| 360d | 2025-09-18 | 16 | 350 | 118 | 188 | 212 | 981 |
-| last720d | 2024-09-23 | 33 | 662 | 146 | 418 | 369 | 2423 |
+| 30d | 2026-08-15 | 2 | 20 | 11 | 8 | 15 | 61 |
+| last60d | 2026-07-16 | 4 | 72 | 24 | 24 | 32 | 217 |
+| 90d | 2026-06-16 | 6 | 124 | 39 | 32 | 55 | 481 |
+| last180d | 2026-03-18 | 11 | 233 | 69 | 75 | 109 | 751 |
+| 360d | 2025-09-19 | 17 | 352 | 114 | 189 | 211 | 981 |
+| last720d | 2024-09-24 | 34 | 664 | 143 | 418 | 367 | 2427 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/checksums.txt) | 1.3 KiB | `other` |
-| [lazygit_0.65.0_darwin_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_darwin_arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
-| [lazygit_0.65.0_darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_darwin_x86_64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
-| [lazygit_0.65.0_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
-| [lazygit_0.65.0_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
-| [lazygit_0.65.0_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
-| [lazygit_0.65.0_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_freebsd_x86_64.tar.gz) | 6.6 MiB | `native/linux/x64` |
-| [lazygit_0.65.0_linux_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
-| [lazygit_0.65.0_linux_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
-| [lazygit_0.65.0_linux_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
-| [lazygit_0.65.0_linux_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_linux_x86_64.tar.gz) | 6.7 MiB | `native/linux/x64` |
-| [lazygit_0.65.0_windows_32-bit.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_32-bit.zip) | 6.6 MiB | `native/win/x64` |
-| [lazygit_0.65.0_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
-| [lazygit_0.65.0_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.0/lazygit_0.65.0_windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lazygit) 上共有 **130** 个发行版报告此项目。**23** 个 ✅ 已是最新上游版本，**61** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.57.0` | ⚠️ outdated |
-| Debian 14 | `0.57.0` | ⚠️ outdated |
-| Debian 13 | `0.50.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.57.0` | ⚠️ outdated |
-| Arch | `0.65.0` | ✅ latest |
-| Homebrew | `0.65.0` | ✅ latest |
-| Nix unstable | `0.65.0` | ✅ latest |
-| Void | `0.65.0` | ✅ latest |
-| Alpine edge | `0.64.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.63.0` | ⚠️ outdated |
+| [checksums.txt](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/checksums.txt) | 1.3 KiB | `other` |
+| [lazygit_0.65.1_darwin_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_darwin_arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
+| [lazygit_0.65.1_darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_darwin_x86_64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
+| [lazygit_0.65.1_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
+| [lazygit_0.65.1_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
+| [lazygit_0.65.1_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
+| [lazygit_0.65.1_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_x86_64.tar.gz) | 6.6 MiB | `native/linux/x64` |
+| [lazygit_0.65.1_linux_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
+| [lazygit_0.65.1_linux_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
+| [lazygit_0.65.1_linux_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
+| [lazygit_0.65.1_linux_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_x86_64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [lazygit_0.65.1_windows_32-bit.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_32-bit.zip) | 6.6 MiB | `native/win/x64` |
+| [lazygit_0.65.1_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
+| [lazygit_0.65.1_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -109,4 +92,4 @@ lazygit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:37:27Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:51:32Z._
