@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 82,538 · **Forks**: 3,043 · **Open issues**: 2,722 · **Contributors**: 359
+- **Stars**: 82,558 · **Forks**: 3,043 · **Open issues**: 2,723 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 2070 · **Open PRs**: 187 · **Closed issues**: 1860 · **Open issues**: 862 · **Commits**: 8281
+- **Releases**: 188 · **Merged PRs**: 2070 · **Open PRs**: 188 · **Closed issues**: 1860 · **Open issues**: 863 · **Commits**: 8281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 22 | 29 | 6 | 11 | 71 |
-| last60d | 2026-07-23 | 4 | 67 | 37 | 23 | 28 | 222 |
-| 90d | 2026-06-23 | 6 | 124 | 52 | 34 | 54 | 496 |
-| last180d | 2026-03-25 | 11 | 231 | 82 | 75 | 103 | 763 |
-| 360d | 2025-09-26 | 17 | 356 | 131 | 190 | 209 | 1018 |
-| last720d | 2024-10-01 | 34 | 669 | 160 | 419 | 361 | 2457 |
+| 30d | 2026-08-23 | 2 | 22 | 30 | 6 | 12 | 71 |
+| last60d | 2026-07-24 | 4 | 67 | 37 | 23 | 28 | 222 |
+| 90d | 2026-06-24 | 6 | 121 | 53 | 33 | 54 | 496 |
+| last180d | 2026-03-26 | 11 | 230 | 83 | 75 | 103 | 763 |
+| 360d | 2025-09-27 | 17 | 356 | 132 | 189 | 210 | 1018 |
+| last720d | 2024-10-02 | 34 | 669 | 160 | 416 | 362 | 2457 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:55:03Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:55:11Z._
