@@ -4,7 +4,7 @@
 
 simple terminal UI for git commands
 
-[![x-cmd/install — lazygit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazygit.svg)](https://x-cmd.com/install/lazygit)
+[![x-cmd/install — lazygit Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lazygit.svg)](https://x-cmd.com/install/lazygit)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install lazygit
 
 ## Code insight
 
-Total: **461,843** lines of code across **2047** files in the top 5 languages.
+Total: **461,856** lines of code across **2047** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 438,949 | 53,352 | 51,094 | 1966 |
+| Go | 438,961 | 53,383 | 51,095 | 1966 |
 | Json | 14,101 | 0 | 0 | 12 |
 | AssemblyGAS | 6,619 | 363 | 1,733 | 39 |
 | Sh | 1,541 | 229 | 169 | 25 |
@@ -30,7 +30,7 @@ Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.65.1` (2026-09-13)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-22
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 82,558 · **Forks**: 3,043 · **Open issues**: 2,723 · **Contributors**: 359
+- **Stars**: 82,586 · **Forks**: 3,045 · **Open issues**: 2,724 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 2070 · **Open PRs**: 188 · **Closed issues**: 1860 · **Open issues**: 863 · **Commits**: 8281
+- **Releases**: 188 · **Merged PRs**: 2072 · **Open PRs**: 190 · **Closed issues**: 1862 · **Open issues**: 862 · **Commits**: 8286
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 22 | 30 | 6 | 12 | 71 |
-| last60d | 2026-07-24 | 4 | 67 | 37 | 23 | 28 | 222 |
-| 90d | 2026-06-24 | 6 | 121 | 53 | 33 | 54 | 496 |
-| last180d | 2026-03-26 | 11 | 230 | 83 | 75 | 103 | 763 |
-| 360d | 2025-09-27 | 17 | 356 | 132 | 189 | 210 | 1018 |
-| last720d | 2024-10-02 | 34 | 669 | 160 | 416 | 362 | 2457 |
+| 30d | 2026-08-24 | 2 | 24 | 32 | 8 | 11 | 74 |
+| last60d | 2026-07-25 | 4 | 62 | 38 | 25 | 27 | 225 |
+| 90d | 2026-06-25 | 6 | 123 | 55 | 35 | 53 | 499 |
+| last180d | 2026-03-27 | 11 | 228 | 84 | 77 | 100 | 766 |
+| 360d | 2025-09-28 | 17 | 357 | 133 | 191 | 209 | 1021 |
+| last720d | 2024-10-03 | 34 | 671 | 162 | 416 | 360 | 2462 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:55:11Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:54:06Z._
