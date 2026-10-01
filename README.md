@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.65.1` (2026-09-13)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-30
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 82,781 · **Forks**: 3,050 · **Open issues**: 2,731 · **Contributors**: 359
+- **Stars**: 82,814 · **Forks**: 3,054 · **Open issues**: 2,731 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 2083 · **Open PRs**: 196 · **Closed issues**: 1867 · **Open issues**: 864 · **Commits**: 8369
+- **Releases**: 188 · **Merged PRs**: 2084 · **Open PRs**: 198 · **Closed issues**: 1867 · **Open issues**: 864 · **Commits**: 8371
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 27 | 33 | 10 | 14 | 136 |
-| last60d | 2026-08-01 | 4 | 68 | 41 | 20 | 28 | 279 |
-| 90d | 2026-07-02 | 6 | 120 | 57 | 35 | 54 | 482 |
-| last180d | 2026-04-03 | 11 | 218 | 86 | 77 | 102 | 795 |
-| 360d | 2025-10-05 | 17 | 364 | 139 | 185 | 212 | 1073 |
-| last720d | 2024-10-10 | 34 | 679 | 167 | 418 | 358 | 2541 |
+| 30d | 2026-09-01 | 2 | 28 | 34 | 10 | 14 | 137 |
+| last60d | 2026-08-02 | 4 | 67 | 43 | 20 | 28 | 280 |
+| 90d | 2026-07-03 | 6 | 120 | 59 | 35 | 54 | 483 |
+| last180d | 2026-04-04 | 11 | 219 | 88 | 77 | 102 | 796 |
+| 360d | 2025-10-06 | 17 | 363 | 141 | 184 | 211 | 1074 |
+| last720d | 2024-10-11 | 34 | 679 | 169 | 415 | 357 | 2543 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:22:31Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:41:22Z._
