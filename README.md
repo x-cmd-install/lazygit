@@ -14,15 +14,15 @@ x install lazygit
 
 ## Code insight
 
-Total: **467,292** lines of code across **2091** files in the top 5 languages.
+Total: **477,161** lines of code across **2197** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 444,115 | 54,069 | 51,795 | 2010 |
-| Json | 14,382 | 0 | 0 | 12 |
+| Go | 453,505 | 57,136 | 53,010 | 2114 |
+| Json | 14,649 | 0 | 0 | 12 |
 | AssemblyGAS | 6,619 | 363 | 1,733 | 39 |
-| Sh | 1,541 | 229 | 169 | 25 |
-| Makefile | 189 | 11 | 57 | 5 |
+| Sh | 1,722 | 296 | 214 | 27 |
+| Makefile | 192 | 11 | 58 | 5 |
 
 ## OpenSSF Scorecard
 
@@ -30,7 +30,7 @@ Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -41,47 +41,47 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.65.1` (2026-09-13)
-- **Last commit**: 2026-10-04
+- **Latest**: `v0.66.0` (2026-10-05)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 82,895 · **Forks**: 3,061 · **Open issues**: 2,732 · **Contributors**: 359
+- **Stars**: 82,916 · **Forks**: 3,063 · **Open issues**: 2,732 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 2087 · **Open PRs**: 197 · **Closed issues**: 1867 · **Open issues**: 865 · **Commits**: 8384
+- **Releases**: 189 · **Merged PRs**: 2106 · **Open PRs**: 182 · **Closed issues**: 1867 · **Open issues**: 865 · **Commits**: 8555
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 25 | 32 | 9 | 14 | 118 |
-| last60d | 2026-08-06 | 3 | 60 | 41 | 18 | 26 | 229 |
-| 90d | 2026-07-07 | 5 | 117 | 58 | 35 | 53 | 397 |
-| last180d | 2026-04-08 | 10 | 214 | 84 | 75 | 103 | 791 |
-| 360d | 2025-10-10 | 17 | 358 | 140 | 181 | 211 | 1065 |
-| last720d | 2024-10-15 | 34 | 682 | 167 | 412 | 358 | 2548 |
+| 30d | 2026-09-06 | 2 | 44 | 18 | 6 | 13 | 159 |
+| last60d | 2026-08-07 | 4 | 79 | 27 | 18 | 25 | 361 |
+| 90d | 2026-07-08 | 6 | 135 | 44 | 34 | 51 | 549 |
+| last180d | 2026-04-09 | 11 | 232 | 69 | 74 | 103 | 943 |
+| 360d | 2025-10-11 | 18 | 377 | 125 | 181 | 210 | 1217 |
+| last720d | 2024-10-16 | 35 | 701 | 152 | 412 | 358 | 2719 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/checksums.txt) | 1.3 KiB | `other` |
-| [lazygit_0.65.1_darwin_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_darwin_arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
-| [lazygit_0.65.1_darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_darwin_x86_64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
-| [lazygit_0.65.1_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
-| [lazygit_0.65.1_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
-| [lazygit_0.65.1_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
-| [lazygit_0.65.1_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_freebsd_x86_64.tar.gz) | 6.6 MiB | `native/linux/x64` |
-| [lazygit_0.65.1_linux_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_32-bit.tar.gz) | 6.3 MiB | `native/unknown` |
-| [lazygit_0.65.1_linux_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_arm64.tar.gz) | 6.0 MiB | `native/linux/arm64` |
-| [lazygit_0.65.1_linux_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_armv6.tar.gz) | 6.3 MiB | `native/linux/arm` |
-| [lazygit_0.65.1_linux_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_linux_x86_64.tar.gz) | 6.7 MiB | `native/linux/x64` |
-| [lazygit_0.65.1_windows_32-bit.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_32-bit.zip) | 6.6 MiB | `native/win/x64` |
-| [lazygit_0.65.1_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
-| [lazygit_0.65.1_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.65.1/lazygit_0.65.1_windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/checksums.txt) | 1.3 KiB | `other` |
+| [lazygit_0.66.0_darwin_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_darwin_arm64.tar.gz) | 6.5 MiB | `native/darwin/arm64` |
+| [lazygit_0.66.0_darwin_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_darwin_x86_64.tar.gz) | 7.0 MiB | `native/darwin/x64` |
+| [lazygit_0.66.0_freebsd_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_freebsd_32-bit.tar.gz) | 6.5 MiB | `native/unknown` |
+| [lazygit_0.66.0_freebsd_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_freebsd_arm64.tar.gz) | 6.2 MiB | `native/linux/arm64` |
+| [lazygit_0.66.0_freebsd_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_freebsd_armv6.tar.gz) | 6.5 MiB | `native/linux/arm` |
+| [lazygit_0.66.0_freebsd_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_freebsd_x86_64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [lazygit_0.66.0_linux_32-bit.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_linux_32-bit.tar.gz) | 6.5 MiB | `native/unknown` |
+| [lazygit_0.66.0_linux_arm64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_linux_arm64.tar.gz) | 6.3 MiB | `native/linux/arm64` |
+| [lazygit_0.66.0_linux_armv6.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_linux_armv6.tar.gz) | 6.5 MiB | `native/linux/arm` |
+| [lazygit_0.66.0_linux_x86_64.tar.gz](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_linux_x86_64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [lazygit_0.66.0_windows_32-bit.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_windows_32-bit.zip) | 6.8 MiB | `native/win/x64` |
+| [lazygit_0.66.0_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_windows_arm64.zip) | 6.4 MiB | `native/win/arm64` |
+| [lazygit_0.66.0_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.66.0/lazygit_0.66.0_windows_x86_64.zip) | 7.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:28:28Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:10:01Z._
