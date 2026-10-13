@@ -30,7 +30,7 @@ x install lazygit
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ x install lazygit
 
 ## 流行度
 
-- **Star**: 83,115 · **Fork**: 3,071 · **开放 issue**: 2,737 · **贡献者**: 359
+- **Star**: 83,135 · **Fork**: 3,072 · **开放 issue**: 2,738 · **贡献者**: 359
 
 ## 累计统计
 
-- **发布数**: 190 · **已合并 PR**: 2116 · **开放 PR**: 185 · **已关闭 issue**: 1874 · **开放 issue**: 863 · **提交数**: 8604
+- **发布数**: 190 · **已合并 PR**: 2116 · **开放 PR**: 184 · **已关闭 issue**: 1874 · **开放 issue**: 864 · **提交数**: 8604
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 51 | 18 | 8 | 11 | 169 |
-| last60d | 2026-08-13 | 4 | 81 | 28 | 21 | 22 | 324 |
-| 90d | 2026-07-14 | 7 | 130 | 41 | 36 | 41 | 553 |
-| last180d | 2026-04-15 | 11 | 236 | 70 | 74 | 98 | 974 |
-| 360d | 2025-10-17 | 19 | 380 | 128 | 183 | 208 | 1250 |
-| last720d | 2024-10-22 | 36 | 709 | 155 | 413 | 351 | 2760 |
+| 30d | 2026-09-13 | 3 | 51 | 18 | 8 | 12 | 169 |
+| last60d | 2026-08-14 | 4 | 77 | 28 | 20 | 23 | 324 |
+| 90d | 2026-07-15 | 7 | 124 | 40 | 36 | 40 | 553 |
+| last180d | 2026-04-16 | 11 | 236 | 70 | 73 | 98 | 974 |
+| 360d | 2025-10-18 | 19 | 380 | 127 | 183 | 209 | 1250 |
+| last720d | 2024-10-23 | 36 | 709 | 154 | 413 | 352 | 2760 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ lazygit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:54:36Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:39:02Z._

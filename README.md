@@ -30,7 +30,7 @@ Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,115 · **Forks**: 3,071 · **Open issues**: 2,737 · **Contributors**: 359
+- **Stars**: 83,135 · **Forks**: 3,072 · **Open issues**: 2,738 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 2116 · **Open PRs**: 185 · **Closed issues**: 1874 · **Open issues**: 863 · **Commits**: 8604
+- **Releases**: 190 · **Merged PRs**: 2116 · **Open PRs**: 184 · **Closed issues**: 1874 · **Open issues**: 864 · **Commits**: 8604
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 51 | 18 | 8 | 11 | 169 |
-| last60d | 2026-08-13 | 4 | 81 | 28 | 21 | 22 | 324 |
-| 90d | 2026-07-14 | 7 | 130 | 41 | 36 | 41 | 553 |
-| last180d | 2026-04-15 | 11 | 236 | 70 | 74 | 98 | 974 |
-| 360d | 2025-10-17 | 19 | 380 | 128 | 183 | 208 | 1250 |
-| last720d | 2024-10-22 | 36 | 709 | 155 | 413 | 351 | 2760 |
+| 30d | 2026-09-13 | 3 | 51 | 18 | 8 | 12 | 169 |
+| last60d | 2026-08-14 | 4 | 77 | 28 | 20 | 23 | 324 |
+| 90d | 2026-07-15 | 7 | 124 | 40 | 36 | 40 | 553 |
+| last180d | 2026-04-16 | 11 | 236 | 70 | 73 | 98 | 974 |
+| 360d | 2025-10-18 | 19 | 380 | 127 | 183 | 209 | 1250 |
+| last720d | 2024-10-23 | 36 | 709 | 154 | 413 | 352 | 2760 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:54:35Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:39:01Z._
