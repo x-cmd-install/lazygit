@@ -14,14 +14,14 @@ x install lazygit
 
 ## Code insight
 
-Total: **482,644** lines of code across **2227** files in the top 5 languages.
+Total: **482,646** lines of code across **2227** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 459,098 | 58,010 | 53,802 | 2143 |
+| Go | 459,101 | 58,013 | 53,802 | 2143 |
 | Json | 14,649 | 0 | 0 | 12 |
 | AssemblyGAS | 6,516 | 362 | 1,723 | 40 |
-| Sh | 1,715 | 296 | 214 | 27 |
+| Sh | 1,714 | 297 | 213 | 27 |
 | Makefile | 192 | 11 | 58 | 5 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.66.2` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 83,252 · **Forks**: 3,084 · **Open issues**: 2,743 · **Contributors**: 359
+- **Stars**: 83,260 · **Forks**: 3,084 · **Open issues**: 2,743 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2131 · **Open PRs**: 180 · **Closed issues**: 1878 · **Open issues**: 865 · **Commits**: 8673
+- **Releases**: 191 · **Merged PRs**: 2133 · **Open PRs**: 180 · **Closed issues**: 1879 · **Open issues**: 864 · **Commits**: 8682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 3 | 65 | 17 | 11 | 14 | 223 |
-| last60d | 2026-08-18 | 5 | 84 | 25 | 22 | 24 | 378 |
-| 90d | 2026-07-19 | 7 | 133 | 35 | 37 | 39 | 607 |
-| last180d | 2026-04-20 | 12 | 250 | 67 | 74 | 100 | 1028 |
-| 360d | 2025-10-22 | 20 | 393 | 123 | 185 | 205 | 1304 |
-| last720d | 2024-10-27 | 37 | 723 | 150 | 415 | 350 | 2829 |
+| 30d | 2026-09-18 | 3 | 67 | 17 | 11 | 11 | 230 |
+| last60d | 2026-08-19 | 5 | 85 | 25 | 23 | 23 | 385 |
+| 90d | 2026-07-20 | 7 | 133 | 35 | 37 | 38 | 614 |
+| last180d | 2026-04-21 | 12 | 250 | 67 | 73 | 99 | 1035 |
+| 360d | 2025-10-23 | 20 | 395 | 123 | 185 | 202 | 1311 |
+| last720d | 2024-10-28 | 37 | 725 | 150 | 415 | 349 | 2838 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:01:39Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:08:23Z._
