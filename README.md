@@ -26,11 +26,11 @@ Total: **482,646** lines of code across **2227** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.9 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,334 · **Forks**: 3,116 · **Open issues**: 2,745 · **Contributors**: 359
+- **Stars**: 83,346 · **Forks**: 3,116 · **Open issues**: 2,746 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2133 · **Open PRs**: 183 · **Closed issues**: 1880 · **Open issues**: 865 · **Commits**: 8682
+- **Releases**: 191 · **Merged PRs**: 2133 · **Open PRs**: 183 · **Closed issues**: 1881 · **Open issues**: 865 · **Commits**: 8682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 3 | 46 | 18 | 11 | 12 | 164 |
-| last60d | 2026-08-22 | 5 | 85 | 28 | 20 | 21 | 314 |
-| 90d | 2026-07-23 | 7 | 130 | 35 | 37 | 38 | 567 |
-| last180d | 2026-04-24 | 12 | 248 | 70 | 70 | 99 | 1016 |
-| 360d | 2025-10-26 | 20 | 395 | 126 | 185 | 202 | 1311 |
-| last720d | 2024-10-31 | 37 | 725 | 153 | 415 | 348 | 2838 |
+| 30d | 2026-09-22 | 3 | 45 | 17 | 11 | 12 | 164 |
+| last60d | 2026-08-23 | 5 | 85 | 28 | 21 | 21 | 314 |
+| 90d | 2026-07-24 | 7 | 130 | 34 | 38 | 37 | 567 |
+| last180d | 2026-04-25 | 12 | 248 | 70 | 71 | 99 | 1016 |
+| 360d | 2025-10-27 | 20 | 395 | 126 | 185 | 201 | 1311 |
+| last720d | 2024-11-01 | 37 | 724 | 153 | 416 | 348 | 2838 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:33:27Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:24:26Z._

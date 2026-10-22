@@ -26,11 +26,11 @@ x install lazygit
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.9 / 10**
+总评分: **4.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ x install lazygit
 
 ## 流行度
 
-- **Star**: 83,334 · **Fork**: 3,116 · **开放 issue**: 2,745 · **贡献者**: 359
+- **Star**: 83,346 · **Fork**: 3,116 · **开放 issue**: 2,746 · **贡献者**: 359
 
 ## 累计统计
 
-- **发布数**: 191 · **已合并 PR**: 2133 · **开放 PR**: 183 · **已关闭 issue**: 1880 · **开放 issue**: 865 · **提交数**: 8682
+- **发布数**: 191 · **已合并 PR**: 2133 · **开放 PR**: 183 · **已关闭 issue**: 1881 · **开放 issue**: 865 · **提交数**: 8682
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 3 | 46 | 18 | 11 | 12 | 164 |
-| last60d | 2026-08-22 | 5 | 85 | 28 | 20 | 21 | 314 |
-| 90d | 2026-07-23 | 7 | 130 | 35 | 37 | 38 | 567 |
-| last180d | 2026-04-24 | 12 | 248 | 70 | 70 | 99 | 1016 |
-| 360d | 2025-10-26 | 20 | 395 | 126 | 185 | 202 | 1311 |
-| last720d | 2024-10-31 | 37 | 725 | 153 | 415 | 348 | 2838 |
+| 30d | 2026-09-22 | 3 | 45 | 17 | 11 | 12 | 164 |
+| last60d | 2026-08-23 | 5 | 85 | 28 | 21 | 21 | 314 |
+| 90d | 2026-07-24 | 7 | 130 | 34 | 38 | 37 | 567 |
+| last180d | 2026-04-25 | 12 | 248 | 70 | 71 | 99 | 1016 |
+| 360d | 2025-10-27 | 20 | 395 | 126 | 185 | 201 | 1311 |
+| last720d | 2024-11-01 | 37 | 724 | 153 | 416 | 348 | 2838 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ lazygit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:33:28Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:24:27Z._
