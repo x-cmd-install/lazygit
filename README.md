@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,420 · **Forks**: 3,119 · **Open issues**: 2,750 · **Contributors**: 359
+- **Stars**: 83,434 · **Forks**: 3,140 · **Open issues**: 2,750 · **Contributors**: 359
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 40 | 15 | 10 | 13 | 116 |
-| last60d | 2026-08-27 | 5 | 82 | 28 | 20 | 25 | 293 |
-| 90d | 2026-07-28 | 7 | 122 | 33 | 36 | 41 | 548 |
-| last180d | 2026-04-29 | 12 | 243 | 71 | 68 | 100 | 990 |
-| 360d | 2025-10-31 | 20 | 393 | 127 | 185 | 199 | 1302 |
-| last720d | 2024-11-05 | 37 | 722 | 152 | 412 | 347 | 2838 |
+| 30d | 2026-09-27 | 3 | 35 | 13 | 10 | 11 | 116 |
+| last60d | 2026-08-28 | 5 | 82 | 26 | 20 | 25 | 293 |
+| 90d | 2026-07-29 | 7 | 120 | 33 | 36 | 40 | 548 |
+| last180d | 2026-04-30 | 12 | 237 | 70 | 65 | 100 | 990 |
+| 360d | 2025-11-01 | 20 | 392 | 126 | 185 | 198 | 1302 |
+| last720d | 2024-11-06 | 37 | 722 | 152 | 410 | 347 | 2837 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **136** distros on [repology.org](https://repology.org/project/lazygit). **28** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
+Reported by **136** distros on [repology.org](https://repology.org/project/lazygit). **29** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,7 +98,7 @@ Reported by **136** distros on [repology.org](https://repology.org/project/lazyg
 | Nix unstable | `0.66.2` | ✅ latest |
 | Void | `0.66.2` | ✅ latest |
 | Alpine edge | `0.66.2` | ✅ latest |
-| openSUSE Tumbleweed | `0.65.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.66.2` | ✅ latest |
 
 ## Improve this data
 
@@ -109,4 +109,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:29:29Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:43:37Z._
