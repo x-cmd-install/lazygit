@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,434 · **Forks**: 3,140 · **Open issues**: 2,750 · **Contributors**: 359
+- **Stars**: 83,465 · **Forks**: 3,161 · **Open issues**: 2,754 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2133 · **Open PRs**: 184 · **Closed issues**: 1882 · **Open issues**: 868 · **Commits**: 8682
+- **Releases**: 191 · **Merged PRs**: 2133 · **Open PRs**: 187 · **Closed issues**: 1882 · **Open issues**: 872 · **Commits**: 8682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 35 | 13 | 10 | 11 | 116 |
-| last60d | 2026-08-28 | 5 | 82 | 26 | 20 | 25 | 293 |
-| 90d | 2026-07-29 | 7 | 120 | 33 | 36 | 40 | 548 |
-| last180d | 2026-04-30 | 12 | 237 | 70 | 65 | 100 | 990 |
-| 360d | 2025-11-01 | 20 | 392 | 126 | 185 | 198 | 1302 |
-| last720d | 2024-11-06 | 37 | 722 | 152 | 410 | 347 | 2837 |
+| 30d | 2026-09-28 | 3 | 33 | 16 | 9 | 15 | 116 |
+| last60d | 2026-08-29 | 5 | 79 | 28 | 20 | 29 | 293 |
+| 90d | 2026-07-30 | 7 | 118 | 35 | 31 | 42 | 548 |
+| last180d | 2026-05-01 | 12 | 235 | 73 | 65 | 104 | 990 |
+| 360d | 2025-11-02 | 19 | 391 | 129 | 185 | 202 | 1302 |
+| last720d | 2024-11-07 | 37 | 722 | 155 | 409 | 349 | 2837 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **136** distros on [repology.org](https://repology.org/project/lazygit). **29** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/lazygit). **29** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,4 +109,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:43:37Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:20:22Z._
