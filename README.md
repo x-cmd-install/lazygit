@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,465 · **Forks**: 3,161 · **Open issues**: 2,754 · **Contributors**: 359
+- **Stars**: 83,489 · **Forks**: 3,182 · **Open issues**: 2,754 · **Contributors**: 359
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 3 | 33 | 16 | 9 | 15 | 116 |
-| last60d | 2026-08-29 | 5 | 79 | 28 | 20 | 29 | 293 |
-| 90d | 2026-07-30 | 7 | 118 | 35 | 31 | 42 | 548 |
-| last180d | 2026-05-01 | 12 | 235 | 73 | 65 | 104 | 990 |
-| 360d | 2025-11-02 | 19 | 391 | 129 | 185 | 202 | 1302 |
-| last720d | 2024-11-07 | 37 | 722 | 155 | 409 | 349 | 2837 |
+| 30d | 2026-09-29 | 3 | 33 | 15 | 9 | 15 | 116 |
+| last60d | 2026-08-30 | 5 | 78 | 27 | 20 | 28 | 293 |
+| 90d | 2026-07-31 | 7 | 118 | 35 | 31 | 41 | 548 |
+| last180d | 2026-05-02 | 12 | 233 | 72 | 65 | 104 | 990 |
+| 360d | 2025-11-03 | 19 | 391 | 129 | 185 | 202 | 1302 |
+| last720d | 2024-11-08 | 37 | 720 | 155 | 408 | 348 | 2837 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/lazygit). **29** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/lazygit). **31** are ✅ on the latest upstream release, **53** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,7 +94,7 @@ Reported by **132** distros on [repology.org](https://repology.org/project/lazyg
 | Debian 13 | `0.50.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.57.0` | ⚠️ outdated |
 | Arch | `0.66.2` | ✅ latest |
-| Homebrew | `0.66.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.66.2` | ✅ latest |
 | Void | `0.66.2` | ✅ latest |
 | Alpine edge | `0.66.2` | ✅ latest |
@@ -109,4 +109,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:20:22Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:35:10Z._
