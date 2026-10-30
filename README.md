@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,489 · **Forks**: 3,182 · **Open issues**: 2,754 · **Contributors**: 359
+- **Stars**: 83,521 · **Forks**: 3,203 · **Open issues**: 2,755 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2133 · **Open PRs**: 187 · **Closed issues**: 1882 · **Open issues**: 872 · **Commits**: 8682
+- **Releases**: 191 · **Merged PRs**: 2133 · **Open PRs**: 188 · **Closed issues**: 1882 · **Open issues**: 873 · **Commits**: 8682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 33 | 15 | 9 | 15 | 116 |
-| last60d | 2026-08-30 | 5 | 78 | 27 | 20 | 28 | 293 |
-| 90d | 2026-07-31 | 7 | 118 | 35 | 31 | 41 | 548 |
-| last180d | 2026-05-02 | 12 | 233 | 72 | 65 | 104 | 990 |
-| 360d | 2025-11-03 | 19 | 391 | 129 | 185 | 202 | 1302 |
-| last720d | 2024-11-08 | 37 | 720 | 155 | 408 | 348 | 2837 |
+| 30d | 2026-09-30 | 3 | 32 | 14 | 9 | 16 | 116 |
+| last60d | 2026-08-31 | 5 | 77 | 28 | 20 | 29 | 293 |
+| 90d | 2026-08-01 | 7 | 118 | 36 | 31 | 42 | 548 |
+| last180d | 2026-05-03 | 12 | 232 | 73 | 63 | 105 | 990 |
+| 360d | 2025-11-04 | 19 | 391 | 130 | 184 | 202 | 1302 |
+| last720d | 2024-11-09 | 37 | 719 | 155 | 408 | 348 | 2837 |
 
 ## Release assets
 
@@ -94,7 +94,7 @@ Reported by **132** distros on [repology.org](https://repology.org/project/lazyg
 | Debian 13 | `0.50.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.57.0` | ⚠️ outdated |
 | Arch | `0.66.2` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.66.2` | ✅ latest |
 | Nix unstable | `0.66.2` | ✅ latest |
 | Void | `0.66.2` | ✅ latest |
 | Alpine edge | `0.66.2` | ✅ latest |
@@ -109,4 +109,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:35:10Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:27:09Z._
