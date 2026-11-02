@@ -2,8 +2,8 @@
   subrepo: dev
   binname: lazygit
   visiblename: lazygit
-  version: 0.52.0
-  origversion: 0.52.0-1~ops2deb
+  version: 0.62.0
+  origversion: 0.62.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -11,8 +11,44 @@
   subrepo: dev
   binname: lazygit
   visiblename: lazygit
-  version: 0.51.1
-  origversion: 0.51.1-1~ops2deb
+  version: 0.61.1
+  origversion: 0.61.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.60.0
+  origversion: 0.60.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.59.0
+  origversion: 0.59.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.58.1
+  origversion: 0.58.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.58.0
+  origversion: 0.58.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -103,19 +139,6 @@
     - thomas@tuxpeople.org
   licenses:
     - MIT
-- repo: t2
-  srcname: lazygit
-  visiblename: lazygit
-  version: 0.66.2
-  origversion: null
-  status: newest
-  summary: Simple terminal UI for git commands
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - MIT
-  categories:
-    - extra/base
 - repo: alpine_3_20
   subrepo: community
   srcname: lazygit
@@ -142,6 +165,15 @@
     - thomas@tuxpeople.org
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.66.0
+  origversion: 0.66.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_3_21
   subrepo: community
   srcname: lazygit
@@ -179,18 +211,6 @@
   summary: Simple terminal UI for git commands
   maintainers:
     - thomas@tuxpeople.org
-  licenses:
-    - MIT
-- repo: aur
-  srcname: lazygit-git
-  binname: lazygit-git
-  visiblename: lazygit-git
-  version: 0.38.2.r89.ec5075104
-  origversion: 0.38.2.r89.ec5075104-1
-  status: rolling
-  summary: A simple terminal UI for git commands
-  maintainers:
-    - fuero@aur
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -264,7 +284,7 @@
   binname: lazygit
   visiblename: lazygit
   version: 0.66.2
-  origversion: 0.66.2-r1
+  origversion: 0.66.2-r2
   status: newest
   summary: Simple terminal UI for git commands
   maintainers:
@@ -277,7 +297,7 @@
   binname: lazygit-doc
   visiblename: lazygit-doc
   version: 0.66.2
-  origversion: 0.66.2-r1
+  origversion: 0.66.2-r2
   status: newest
   summary: Simple terminal UI for git commands (documentation)
   maintainers:
@@ -339,6 +359,18 @@
   summary: Simple terminal UI for git commands
   licenses:
     - MIT
+- repo: aur
+  srcname: lazygit-git
+  binname: lazygit-git
+  visiblename: lazygit-git
+  version: 0.38.2.r89.ec5075104
+  origversion: 0.38.2.r89.ec5075104-1
+  status: rolling
+  summary: A simple terminal UI for git commands
+  maintainers:
+    - fuero@aur
+  licenses:
+    - MIT
 - repo: artix
   subrepo: galaxy
   srcname: lazygit
@@ -388,16 +420,6 @@
   summary: A simple terminal UI for git commands
   licenses:
     - MIT
-- repo: termux
-  srcname: lazygit
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.66.2
-  origversion: null
-  status: newest
-  summary: Simple terminal UI for git commands
-  maintainers:
-    - kcubeterm@github
 - repo: debian_13
   subrepo: trixie/main
   srcname: lazygit
@@ -708,30 +730,6 @@
     - Unlicense
   categories:
     - dev-vcs
-- repo: nix_unstable
-  srcname: lazygit
-  visiblename: lazygit
-  version: 0.66.2
-  origversion: null
-  status: newest
-  summary: Simple terminal UI for git commands
-  maintainers:
-    - ddogfoodd@github
-    - eduardo@eduardoquiros.com
-    - khaneliman12@gmail.com
-    - nix@starsep.com
-    - nix@sigmasquadron.net
-  licenses:
-    - MIT
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.53.0
-  origversion: 0.53.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: liguros_develop
   srcname: dev-vcs/lazygit
   visiblename: dev-vcs/lazygit
@@ -805,8 +803,8 @@
   srcname: lazygit
   binname: lazygit
   visiblename: lazygit
-  version: 0.64.1
-  origversion: 0.64.1-1
+  version: 0.40.2
+  origversion: 0.40.2-1
   status: outdated
   summary: Simple terminal UI for git commands
   licenses:
@@ -816,8 +814,8 @@
   srcname: lazygit
   binname: lazygit
   visiblename: lazygit
-  version: 0.66.0
-  origversion: 0.66.0-1
+  version: 0.40.2
+  origversion: 0.40.2-1
   status: outdated
   summary: Simple terminal UI for git commands
   licenses:
@@ -853,6 +851,15 @@
   summary: Simple terminal UI for git commands (mingw-w64)
   licenses:
     - spdx:MIT
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.62.1
+  origversion: 0.62.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: msys2_ucrt64
   srcname: mingw-w64-lazygit
   binname: mingw-w64-ucrt-x86_64-lazygit
@@ -936,17 +943,21 @@
     - alpha@sigmasquadron.net
   licenses:
     - MIT
-- repo: stalix_dev
-  srcname: bin/lazygit/unwrap
-  binname: bin/lazygit
-  visiblename: bin/lazygit
+- repo: nix_unstable
+  srcname: lazygit
+  visiblename: lazygit
   version: 0.66.2
   origversion: null
   status: newest
+  summary: Simple terminal UI for git commands
   maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
+    - ddogfoodd@github
+    - eduardo@eduardoquiros.com
+    - khaneliman12@gmail.com
+    - nix@starsep.com
+    - nix@sigmasquadron.net
+  licenses:
+    - MIT
 - repo: openmandriva_6_0
   subrepo: unsupported/release
   srcname: lazygit
@@ -1272,13 +1283,47 @@
   srcname: bin/lazygit/unwrap
   binname: bin/lazygit
   visiblename: bin/lazygit
-  version: 0.65.1
+  version: 0.66.2
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
     - bin
+- repo: stalix_dev
+  srcname: bin/lazygit/unwrap
+  binname: bin/lazygit
+  visiblename: bin/lazygit
+  version: 0.66.2
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: t2
+  srcname: lazygit
+  visiblename: lazygit
+  version: 0.66.2
+  origversion: null
+  status: newest
+  summary: Simple terminal UI for git commands
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/base
+- repo: termux
+  srcname: lazygit
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.66.2
+  origversion: null
+  status: newest
+  summary: Simple terminal UI for git commands
+  maintainers:
+    - kcubeterm@github
 - repo: ubuntu_25_10
   subrepo: questing/universe
   srcname: lazygit
@@ -1359,15 +1404,6 @@
   subrepo: dev
   binname: lazygit
   visiblename: lazygit
-  version: 0.66.0
-  origversion: 0.66.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
   version: 0.65.1
   origversion: 0.65.1-1~ops2deb
   status: legacy
@@ -1431,69 +1467,6 @@
   subrepo: dev
   binname: lazygit
   visiblename: lazygit
-  version: 0.62.1
-  origversion: 0.62.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.62.0
-  origversion: 0.62.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.61.1
-  origversion: 0.61.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.60.0
-  origversion: 0.60.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.59.0
-  origversion: 0.59.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.58.1
-  origversion: 0.58.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
-  version: 0.58.0
-  origversion: 0.58.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: lazygit
-  visiblename: lazygit
   version: 0.57.0
   origversion: 0.57.0-1~ops2deb
   status: legacy
@@ -1550,6 +1523,33 @@
   visiblename: lazygit
   version: 0.54.0
   origversion: 0.54.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.53.0
+  origversion: 0.53.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.52.0
+  origversion: 0.52.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: lazygit
+  visiblename: lazygit
+  version: 0.51.1
+  origversion: 0.51.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
