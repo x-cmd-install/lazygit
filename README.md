@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,745 · **Forks**: 3,251 · **Open issues**: 2,763 · **Contributors**: 358
+- **Stars**: 83,778 · **Forks**: 3,253 · **Open issues**: 2,765 · **Contributors**: 358
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2147 · **Open PRs**: 193 · **Closed issues**: 1886 · **Open issues**: 877 · **Commits**: 8792
+- **Releases**: 192 · **Merged PRs**: 2147 · **Open PRs**: 191 · **Closed issues**: 1886 · **Open issues**: 879 · **Commits**: 8792
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 3 | 32 | 16 | 7 | 20 | 113 |
-| last60d | 2026-09-10 | 5 | 83 | 31 | 16 | 31 | 328 |
-| 90d | 2026-08-11 | 7 | 118 | 39 | 30 | 43 | 489 |
-| last180d | 2026-05-13 | 13 | 232 | 73 | 62 | 107 | 1040 |
-| 360d | 2025-11-14 | 20 | 400 | 136 | 173 | 204 | 1369 |
-| last720d | 2024-11-19 | 38 | 732 | 160 | 408 | 353 | 2934 |
+| 30d | 2026-10-11 | 3 | 29 | 15 | 7 | 22 | 113 |
+| last60d | 2026-09-11 | 5 | 82 | 30 | 16 | 32 | 328 |
+| 90d | 2026-08-12 | 7 | 114 | 38 | 29 | 43 | 489 |
+| last180d | 2026-05-14 | 13 | 232 | 71 | 62 | 109 | 1040 |
+| 360d | 2025-11-15 | 20 | 398 | 133 | 173 | 206 | 1369 |
+| last720d | 2024-11-20 | 38 | 732 | 158 | 407 | 354 | 2934 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/lazygit). **11** are ✅ on the latest upstream release, **75** are ⚠️ on an older version.
+Reported by **135** distros on [repology.org](https://repology.org/project/lazygit). **21** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -93,12 +93,12 @@ Reported by **135** distros on [repology.org](https://repology.org/project/lazyg
 | Debian 14 | `0.57.0` | ⚠️ outdated |
 | Debian 13 | `0.50.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.57.0` | ⚠️ outdated |
-| Arch | `0.66.2` | ⚠️ outdated |
+| Arch | `0.66.3` | ✅ latest |
 | Homebrew | `0.66.3` | ✅ latest |
-| Fedora rawhide | `0.66.2` | ⚠️ outdated |
+| Fedora rawhide | `0.66.3` | ✅ latest |
 | Nix unstable | `0.66.2` | ⚠️ outdated |
 | Void | `0.66.3` | ✅ latest |
-| Alpine edge | `0.66.2` | ⚠️ outdated |
+| Alpine edge | `0.66.3` | ✅ latest |
 | openSUSE Tumbleweed | `0.66.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -110,4 +110,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:20:29Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:21:01Z._
