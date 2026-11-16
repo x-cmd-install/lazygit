@@ -14,11 +14,11 @@ x install lazygit
 
 ## Code insight
 
-Total: **488,510** lines of code across **2305** files in the top 5 languages.
+Total: **488,879** lines of code across **2309** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 464,965 | 58,519 | 54,590 | 2221 |
+| Go | 465,334 | 58,566 | 54,651 | 2225 |
 | Json | 14,649 | 0 | 0 | 12 |
 | AssemblyGAS | 6,516 | 362 | 1,723 | 40 |
 | Sh | 1,714 | 297 | 213 | 27 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,901 · **Forks**: 3,256 · **Open issues**: 2,766 · **Contributors**: 358
+- **Stars**: 83,918 · **Forks**: 3,258 · **Open issues**: 2,767 · **Contributors**: 358
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2157 · **Open PRs**: 195 · **Closed issues**: 1888 · **Open issues**: 878 · **Commits**: 8853
+- **Releases**: 192 · **Merged PRs**: 2158 · **Open PRs**: 194 · **Closed issues**: 1889 · **Open issues**: 878 · **Commits**: 8866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 26 | 17 | 4 | 19 | 146 |
-| last60d | 2026-09-16 | 4 | 91 | 34 | 18 | 30 | 331 |
-| 90d | 2026-08-17 | 6 | 110 | 42 | 30 | 41 | 477 |
-| last180d | 2026-05-19 | 13 | 242 | 74 | 64 | 107 | 1076 |
-| 360d | 2025-11-20 | 20 | 402 | 137 | 173 | 203 | 1411 |
-| last720d | 2024-11-25 | 38 | 741 | 162 | 406 | 351 | 2993 |
+| 30d | 2026-10-17 | 1 | 25 | 17 | 5 | 19 | 158 |
+| last60d | 2026-09-17 | 4 | 92 | 34 | 19 | 30 | 343 |
+| 90d | 2026-08-18 | 6 | 111 | 42 | 30 | 40 | 489 |
+| last180d | 2026-05-20 | 13 | 241 | 74 | 65 | 107 | 1088 |
+| 360d | 2025-11-21 | 20 | 403 | 137 | 174 | 200 | 1423 |
+| last720d | 2024-11-26 | 38 | 742 | 162 | 406 | 351 | 3006 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/lazygit). **31** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
+Reported by **135** distros on [repology.org](https://repology.org/project/lazygit). **32** are ✅ on the latest upstream release, **54** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -110,4 +110,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:22:39Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:51:45Z._
