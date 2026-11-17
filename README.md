@@ -26,11 +26,11 @@ Total: **488,879** lines of code across **2309** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,918 · **Forks**: 3,258 · **Open issues**: 2,767 · **Contributors**: 358
+- **Stars**: 83,934 · **Forks**: 3,264 · **Open issues**: 2,768 · **Contributors**: 358
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2158 · **Open PRs**: 194 · **Closed issues**: 1889 · **Open issues**: 878 · **Commits**: 8866
+- **Releases**: 192 · **Merged PRs**: 2158 · **Open PRs**: 193 · **Closed issues**: 1889 · **Open issues**: 879 · **Commits**: 8866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 25 | 17 | 5 | 19 | 158 |
-| last60d | 2026-09-17 | 4 | 92 | 34 | 19 | 30 | 343 |
-| 90d | 2026-08-18 | 6 | 111 | 42 | 30 | 40 | 489 |
-| last180d | 2026-05-20 | 13 | 241 | 74 | 65 | 107 | 1088 |
-| 360d | 2025-11-21 | 20 | 403 | 137 | 174 | 200 | 1423 |
-| last720d | 2024-11-26 | 38 | 742 | 162 | 406 | 351 | 3006 |
+| 30d | 2026-10-18 | 1 | 25 | 17 | 5 | 20 | 158 |
+| last60d | 2026-09-18 | 4 | 92 | 34 | 18 | 29 | 343 |
+| 90d | 2026-08-19 | 6 | 110 | 42 | 30 | 41 | 489 |
+| last180d | 2026-05-21 | 13 | 239 | 74 | 65 | 106 | 1088 |
+| 360d | 2025-11-22 | 20 | 403 | 137 | 174 | 201 | 1423 |
+| last720d | 2024-11-27 | 38 | 741 | 162 | 406 | 352 | 3006 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/lazygit). **32** are ✅ on the latest upstream release, **54** are ⚠️ on an older version.
+Reported by **138** distros on [repology.org](https://repology.org/project/lazygit). **36** are ✅ on the latest upstream release, **53** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,7 +99,7 @@ Reported by **135** distros on [repology.org](https://repology.org/project/lazyg
 | Nix unstable | `0.66.3` | ✅ latest |
 | Void | `0.66.3` | ✅ latest |
 | Alpine edge | `0.66.3` | ✅ latest |
-| openSUSE Tumbleweed | `0.66.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.66.3` | ✅ latest |
 
 ## Improve this data
 
@@ -110,4 +110,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:51:45Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:09:30Z._

@@ -26,11 +26,11 @@ x install lazygit
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ x install lazygit
 
 ## 流行度
 
-- **Star**: 83,918 · **Fork**: 3,258 · **开放 issue**: 2,767 · **贡献者**: 358
+- **Star**: 83,934 · **Fork**: 3,264 · **开放 issue**: 2,768 · **贡献者**: 358
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 2158 · **开放 PR**: 194 · **已关闭 issue**: 1889 · **开放 issue**: 878 · **提交数**: 8866
+- **发布数**: 192 · **已合并 PR**: 2158 · **开放 PR**: 193 · **已关闭 issue**: 1889 · **开放 issue**: 879 · **提交数**: 8866
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 25 | 17 | 5 | 19 | 158 |
-| last60d | 2026-09-17 | 4 | 92 | 34 | 19 | 30 | 343 |
-| 90d | 2026-08-18 | 6 | 111 | 42 | 30 | 40 | 489 |
-| last180d | 2026-05-20 | 13 | 241 | 74 | 65 | 107 | 1088 |
-| 360d | 2025-11-21 | 20 | 403 | 137 | 174 | 200 | 1423 |
-| last720d | 2024-11-26 | 38 | 742 | 162 | 406 | 351 | 3006 |
+| 30d | 2026-10-18 | 1 | 25 | 17 | 5 | 20 | 158 |
+| last60d | 2026-09-18 | 4 | 92 | 34 | 18 | 29 | 343 |
+| 90d | 2026-08-19 | 6 | 110 | 42 | 30 | 41 | 489 |
+| last180d | 2026-05-21 | 13 | 239 | 74 | 65 | 106 | 1088 |
+| 360d | 2025-11-22 | 20 | 403 | 137 | 174 | 201 | 1423 |
+| last720d | 2024-11-27 | 38 | 741 | 162 | 406 | 352 | 3006 |
 
 ## Release 资产
 
@@ -85,7 +85,7 @@ x install lazygit
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/lazygit) 上共有 **135** 个发行版报告此项目。**32** 个 ✅ 已是最新上游版本，**54** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/lazygit) 上共有 **138** 个发行版报告此项目。**36** 个 ✅ 已是最新上游版本，**53** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -99,7 +99,7 @@ x install lazygit
 | Nix unstable | `0.66.3` | ✅ latest |
 | Void | `0.66.3` | ✅ latest |
 | Alpine edge | `0.66.3` | ✅ latest |
-| openSUSE Tumbleweed | `0.66.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.66.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -110,4 +110,4 @@ lazygit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:51:45Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:09:31Z._
