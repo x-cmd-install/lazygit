@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 83,959 · **Forks**: 3,269 · **Open issues**: 2,772 · **Contributors**: 358
+- **Stars**: 83,965 · **Forks**: 3,274 · **Open issues**: 2,772 · **Contributors**: 358
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 25 | 19 | 4 | 23 | 158 |
-| last60d | 2026-09-20 | 4 | 72 | 34 | 18 | 33 | 343 |
-| 90d | 2026-08-21 | 6 | 110 | 44 | 26 | 43 | 489 |
-| last180d | 2026-05-23 | 13 | 239 | 76 | 63 | 107 | 1088 |
-| 360d | 2025-11-24 | 20 | 402 | 139 | 172 | 205 | 1423 |
-| last720d | 2024-11-29 | 38 | 737 | 164 | 405 | 356 | 3006 |
+| 30d | 2026-10-21 | 1 | 25 | 17 | 4 | 22 | 158 |
+| last60d | 2026-09-21 | 4 | 71 | 34 | 17 | 33 | 343 |
+| 90d | 2026-08-22 | 6 | 110 | 44 | 26 | 42 | 489 |
+| last180d | 2026-05-24 | 13 | 239 | 75 | 63 | 105 | 1088 |
+| 360d | 2025-11-25 | 20 | 401 | 139 | 170 | 204 | 1423 |
+| last720d | 2024-11-30 | 38 | 736 | 164 | 404 | 356 | 3006 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **138** distros on [repology.org](https://repology.org/project/lazygit). **36** are ✅ on the latest upstream release, **53** are ⚠️ on an older version.
+Reported by **138** distros on [repology.org](https://repology.org/project/lazygit). **37** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -110,4 +110,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:35:12Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:46:18Z._
