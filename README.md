@@ -24,16 +24,6 @@ Total: **489,014** lines of code across **2309** files in the top 5 languages.
 | Sh | 1,714 | 297 | 213 | 27 |
 | Makefile | 192 | 11 | 58 | 5 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.7 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/jesseduffield/lazygit>
@@ -42,27 +32,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.66.3` (2026-11-07)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-23
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 84,023 · **Forks**: 3,213 · **Open issues**: 2,776 · **Contributors**: 358
+- **Stars**: 84,051 · **Forks**: 3,215 · **Open issues**: 2,776 · **Contributors**: 358
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2160 · **Open PRs**: 198 · **Closed issues**: 1890 · **Open issues**: 886 · **Commits**: 8877
+- **Releases**: 192 · **Merged PRs**: 2161 · **Open PRs**: 197 · **Closed issues**: 1891 · **Open issues**: 885 · **Commits**: 8879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 27 | 21 | 5 | 21 | 0 |
-| last60d | 2026-09-24 | 4 | 71 | 37 | 16 | 35 | 0 |
-| 90d | 2026-08-25 | 6 | 112 | 47 | 27 | 45 | 0 |
-| last180d | 2026-05-27 | 12 | 234 | 76 | 62 | 104 | 0 |
-| 360d | 2025-11-28 | 20 | 400 | 142 | 169 | 207 | 0 |
-| last720d | 2024-12-03 | 38 | 734 | 167 | 404 | 358 | 2991 |
+| 30d | 2026-10-25 | 1 | 28 | 20 | 6 | 20 | 168 |
+| last60d | 2026-09-25 | 4 | 72 | 33 | 17 | 32 | 287 |
+| 90d | 2026-08-26 | 6 | 110 | 46 | 28 | 44 | 471 |
+| last180d | 2026-05-28 | 12 | 233 | 75 | 63 | 101 | 1067 |
+| 360d | 2025-11-29 | 20 | 401 | 141 | 170 | 206 | 1427 |
+| last720d | 2024-12-04 | 38 | 735 | 166 | 405 | 357 | 2991 |
 
 ## Release assets
 
@@ -85,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **138** distros on [repology.org](https://repology.org/project/lazygit). **37** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
+Reported by **138** distros on [repology.org](https://repology.org/project/lazygit). **38** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -110,4 +100,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:25:28Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:22:22Z._

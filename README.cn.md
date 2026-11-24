@@ -24,16 +24,6 @@ x install lazygit
 | Sh | 1,714 | 297 | 213 | 27 |
 | Makefile | 192 | 11 | 58 | 5 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.7 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/jesseduffield/lazygit>
@@ -42,27 +32,27 @@ x install lazygit
 ## 发布
 
 - **最新版本**: `v0.66.3` (2026-11-07)
-- **最近提交**: 2026-11-22
+- **最近提交**: 2026-11-23
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 84,023 · **Fork**: 3,213 · **开放 issue**: 2,776 · **贡献者**: 358
+- **Star**: 84,051 · **Fork**: 3,215 · **开放 issue**: 2,776 · **贡献者**: 358
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 2160 · **开放 PR**: 198 · **已关闭 issue**: 1890 · **开放 issue**: 886 · **提交数**: 8877
+- **发布数**: 192 · **已合并 PR**: 2161 · **开放 PR**: 197 · **已关闭 issue**: 1891 · **开放 issue**: 885 · **提交数**: 8879
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 27 | 21 | 5 | 21 | 0 |
-| last60d | 2026-09-24 | 4 | 71 | 37 | 16 | 35 | 0 |
-| 90d | 2026-08-25 | 6 | 112 | 47 | 27 | 45 | 0 |
-| last180d | 2026-05-27 | 12 | 234 | 76 | 62 | 104 | 0 |
-| 360d | 2025-11-28 | 20 | 400 | 142 | 169 | 207 | 0 |
-| last720d | 2024-12-03 | 38 | 734 | 167 | 404 | 358 | 2991 |
+| 30d | 2026-10-25 | 1 | 28 | 20 | 6 | 20 | 168 |
+| last60d | 2026-09-25 | 4 | 72 | 33 | 17 | 32 | 287 |
+| 90d | 2026-08-26 | 6 | 110 | 46 | 28 | 44 | 471 |
+| last180d | 2026-05-28 | 12 | 233 | 75 | 63 | 101 | 1067 |
+| 360d | 2025-11-29 | 20 | 401 | 141 | 170 | 206 | 1427 |
+| last720d | 2024-12-04 | 38 | 735 | 166 | 405 | 357 | 2991 |
 
 ## Release 资产
 
@@ -85,7 +75,7 @@ x install lazygit
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/lazygit) 上共有 **138** 个发行版报告此项目。**37** 个 ✅ 已是最新上游版本，**52** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/lazygit) 上共有 **138** 个发行版报告此项目。**38** 个 ✅ 已是最新上游版本，**51** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -110,4 +100,4 @@ lazygit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:25:30Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:22:23Z._
