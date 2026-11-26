@@ -37,22 +37,22 @@ Total: **489,014** lines of code across **2309** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 84,079 · **Forks**: 3,214 · **Open issues**: 2,777 · **Contributors**: 358
+- **Stars**: 84,098 · **Forks**: 3,220 · **Open issues**: 2,778 · **Contributors**: 357
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2161 · **Open PRs**: 196 · **Closed issues**: 1891 · **Open issues**: 886 · **Commits**: 8879
+- **Releases**: 192 · **Merged PRs**: 2161 · **Open PRs**: 196 · **Closed issues**: 1892 · **Open issues**: 886 · **Commits**: 8879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 28 | 19 | 6 | 21 | 168 |
-| last60d | 2026-09-26 | 4 | 68 | 32 | 17 | 33 | 287 |
-| 90d | 2026-08-27 | 6 | 110 | 45 | 27 | 45 | 471 |
-| last180d | 2026-05-29 | 11 | 233 | 74 | 61 | 102 | 1067 |
-| 360d | 2025-11-30 | 20 | 401 | 139 | 170 | 207 | 1427 |
-| last720d | 2024-12-05 | 38 | 735 | 165 | 404 | 358 | 2988 |
+| 30d | 2026-10-27 | 1 | 28 | 19 | 7 | 18 | 168 |
+| last60d | 2026-09-27 | 4 | 63 | 30 | 18 | 31 | 287 |
+| 90d | 2026-08-28 | 6 | 110 | 43 | 28 | 45 | 471 |
+| last180d | 2026-05-30 | 11 | 229 | 74 | 62 | 102 | 1067 |
+| 360d | 2025-12-01 | 20 | 401 | 139 | 170 | 206 | 1427 |
+| last720d | 2024-12-06 | 38 | 734 | 165 | 405 | 358 | 2988 |
 
 ## Release assets
 
@@ -73,6 +73,24 @@ Total: **489,014** lines of code across **2309** files in the top 5 languages.
 | [lazygit_0.66.3_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.66.3/lazygit_0.66.3_windows_arm64.zip) | 6.4 MiB | `native/win/arm64` |
 | [lazygit_0.66.3_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.66.3/lazygit_0.66.3_windows_x86_64.zip) | 7.2 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **138** distros on [repology.org](https://repology.org/project/lazygit). **1** are ✅ on the latest upstream release, **88** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.57.0` | ⚠️ outdated |
+| Debian 14 | `0.57.0` | ⚠️ outdated |
+| Debian 13 | `0.50.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.57.0` | ⚠️ outdated |
+| Arch | `0.66.3` | ⚠️ outdated |
+| Homebrew | `0.66.3` | ⚠️ outdated |
+| Fedora rawhide | `0.66.3` | ⚠️ outdated |
+| Nix unstable | `0.66.3` | ⚠️ outdated |
+| Void | `0.66.3` | ⚠️ outdated |
+| Alpine edge | `0.66.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.66.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lazygit` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +100,4 @@ Install metadata for lazygit lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:01:47Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:54:46Z._
