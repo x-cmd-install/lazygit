@@ -37,22 +37,22 @@ x install lazygit
 
 ## 流行度
 
-- **Star**: 84,098 · **Fork**: 3,220 · **开放 issue**: 2,778 · **贡献者**: 357
+- **Star**: 84,125 · **Fork**: 3,221 · **开放 issue**: 2,779 · **贡献者**: 357
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 2161 · **开放 PR**: 196 · **已关闭 issue**: 1892 · **开放 issue**: 886 · **提交数**: 8879
+- **发布数**: 192 · **已合并 PR**: 2161 · **开放 PR**: 196 · **已关闭 issue**: 1892 · **开放 issue**: 887 · **提交数**: 8879
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 28 | 19 | 7 | 18 | 168 |
-| last60d | 2026-09-27 | 4 | 63 | 30 | 18 | 31 | 287 |
-| 90d | 2026-08-28 | 6 | 110 | 43 | 28 | 45 | 471 |
-| last180d | 2026-05-30 | 11 | 229 | 74 | 62 | 102 | 1067 |
-| 360d | 2025-12-01 | 20 | 401 | 139 | 170 | 206 | 1427 |
-| last720d | 2024-12-06 | 38 | 734 | 165 | 405 | 358 | 2988 |
+| 30d | 2026-10-28 | 1 | 28 | 18 | 7 | 18 | 168 |
+| last60d | 2026-09-28 | 4 | 61 | 30 | 17 | 32 | 287 |
+| 90d | 2026-08-29 | 6 | 107 | 42 | 28 | 46 | 471 |
+| last180d | 2026-05-31 | 11 | 229 | 73 | 61 | 103 | 1067 |
+| 360d | 2025-12-02 | 20 | 401 | 139 | 170 | 207 | 1427 |
+| last720d | 2024-12-07 | 38 | 734 | 165 | 405 | 359 | 2988 |
 
 ## Release 资产
 
@@ -73,24 +73,6 @@ x install lazygit
 | [lazygit_0.66.3_windows_arm64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.66.3/lazygit_0.66.3_windows_arm64.zip) | 6.4 MiB | `native/win/arm64` |
 | [lazygit_0.66.3_windows_x86_64.zip](https://github.com/jesseduffield/lazygit/releases/download/v0.66.3/lazygit_0.66.3_windows_x86_64.zip) | 7.2 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lazygit) 上共有 **138** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**88** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.57.0` | ⚠️ outdated |
-| Debian 14 | `0.57.0` | ⚠️ outdated |
-| Debian 13 | `0.50.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.57.0` | ⚠️ outdated |
-| Arch | `0.66.3` | ⚠️ outdated |
-| Homebrew | `0.66.3` | ⚠️ outdated |
-| Fedora rawhide | `0.66.3` | ⚠️ outdated |
-| Nix unstable | `0.66.3` | ⚠️ outdated |
-| Void | `0.66.3` | ⚠️ outdated |
-| Alpine edge | `0.66.3` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.66.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 lazygit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lazygit` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -100,4 +82,4 @@ lazygit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:54:47Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:03:44Z._
